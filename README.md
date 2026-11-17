@@ -1,4 +1,3 @@
-# video-game-market-analytics-sql
 # Video Game Market Analytics & Player Engagement SQL Project
 
 An end-to-end data analysis project investigating global video game sales performance, publisher market share, and consumer review dynamics using **MySQL**.
