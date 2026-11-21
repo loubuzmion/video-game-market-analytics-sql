@@ -5,7 +5,7 @@ A SQL analysis of a video game dataset to find which **game titles, genres and p
 
 ## Team
 
-This was a **group project of 3 people** (Reyna, Lou and Francis).
+This was a **group project of 3 people** ([Reyna Ranque](https://github.com/reynaranque), Lou and Francis).
 
 ## Objective
 
