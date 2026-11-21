@@ -1,3 +1,4 @@
+![Video Game Sales](video-game.jpg)
 # Video Game Sales & Reviews Analysis with SQL
 
 A SQL analysis of a video game dataset to find which **game titles, genres and publishers** generate the most revenue and customer engagement. It uses joins, aggregation and window functions (`RANK() OVER (PARTITION BY ...)`).
